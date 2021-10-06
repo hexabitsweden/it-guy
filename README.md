@@ -1,21 +1,19 @@
 # it-guy
 Like cowsay byt a sysadmin instead
 
-# Terminal-post-it
-colorful notes in the terminal
-
 ![Image of IT-Guy](https://github.com/hexabitsweden/it-guy/blob/main/it.png?raw=true)
 
 ## Getting Started
 Donwload and extract. Or clone from this site.
-```
 And then
 ```
 ./it.sh "Your text" 
-
-Or only ./it.sh with no text to use the default message.
+```
+Or only:
 
 ```
+./it.sh with no text to use the default message.
+
 Help
 ```
 Not yet implemented (later this week maybe)
