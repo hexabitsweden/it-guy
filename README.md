@@ -36,6 +36,6 @@ This project is licensed under the BSD License
 
 ## Acknowledgments
 * Im not a not professional programmer
-* It's workes for me. I Use it daily since many years.
+* Just for fun. Nothing fancy
 
 For more info: http://blog.codeland.se
