@@ -11,7 +11,10 @@ Donwload and extract. Or clone from this site.
 ```
 And then
 ```
-./it.sh
+./it.sh "Your text" 
+
+Or only ./it.sh with no text to use the default message.
+
 ```
 Help
 ```
