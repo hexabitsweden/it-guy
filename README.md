@@ -13,14 +13,12 @@ Or only:
 
 ```
 ./it.sh with no text to use the default message.
-
 ```
 Help
 ```
 Not yet implemented (later this week maybe)
 but there is some sample notes with help and
 info about all the commands.
-```
 
 ### Prerequisites
 
